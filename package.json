@@ -1,0 +1,8 @@
+{
+  "name": "zao-hong-gongguan",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "build": "node -e \"console.log('Static app: no build step')\"", "start": "node server.mjs" }
+}
+
